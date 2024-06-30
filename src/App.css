@@ -1,0 +1,21 @@
+.signing-board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signature-canvas {
+  border: 2px solid #000;
+  width: 100%;
+  height: 500px;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  font-size: 16px;
+}
